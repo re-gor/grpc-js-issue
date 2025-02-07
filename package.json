@@ -1,0 +1,29 @@
+{
+  "name": "grpc-js-issue",
+  "version": "0.0.1",
+  "description": "Example illustrating https://github.com/grpc/grpc-node/issues/2899",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/re-gor/grpc-js-issue.git"
+  },
+  "keywords": [
+    "grpc-js"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/re-gor/grpc-js-issue/issues"
+  },
+  "homepage": "https://github.com/re-gor/grpc-js-issue#readme",
+  "dependencies": {
+    "@grpc/grpc-js": "^1.12.5",
+    "minimist": "^1.2.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.9"
+  }
+}
